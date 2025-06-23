@@ -15,3 +15,7 @@
   for = "/robots.txt"
   [headers.values]
     Content-Type = "text/plain"
+[[headers]]
+  for = "/test-header"
+  [headers.values]
+    X-Custom-Test = "Netlify TOML Çalışıyor"
