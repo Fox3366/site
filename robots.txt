@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://karadenizbudakbeton.netlify.app/sitemap.xml
-Sitemap: https://karadenizbudakbeton.netlify.app/sitemap-v1.xml
+Sitemap: https://karadenizsilim.netlify.app/sitemap.xml
